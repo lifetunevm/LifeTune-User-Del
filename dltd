@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Удаление аккаунта — LifeTune</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+  <div class="container">
+
+    <div class="nav">
+      <div class="brand">
+        <img src="./image/logo.png" alt="LifeTune" />
+        <div class="brand-text">
+          <div class="brand-title">LifeTune</div>
+          <div class="tagline">Удаление аккаунта</div>
+        </div>
+      </div>
+
+      <div class="nav-links">
+        <a class="pill" href="./index.html">Политика</a>
+        <a class="pill" href="mailto:lifetunesup@gmail.com">Поддержка</a>
+      </div>
+    </div>
+
+    <main class="card doc">
+
+      <h1>Удаление учетной записи LifeTune</h1>
+
+      <div class="badge">Последнее обновление: 2026</div>
+
+      <p>
+        Вы можете запросить удаление своей учетной записи <strong>LifeTune</strong> и всех связанных с ней данных.
+      </p>
+
+      <h2>Что будет удалено</h2>
+
+      <ul>
+        <li>данные аккаунта (email, имя, UID);</li>
+        <li>профиль пользователя;</li>
+        <li>данные шагов, привычек и активности;</li>
+        <li>публикации, комментарии и другой пользовательский контент;</li>
+        <li>вся связанная информация в Firebase (Firestore/Storage).</li>
+      </ul>
+
+      <h2>Как запросить удаление</h2>
+
+      <p>
+        Для удаления аккаунта отправьте запрос на электронную почту:
+      </p>
+
+      <p>
+        <strong>lifetunesup@gmail.com</strong>
+      </p>
+
+      <p>
+        В письме обязательно укажите:
+      </p>
+
+      <ul>
+        <li>email, на который зарегистрирован аккаунт;</li>
+        <li>причину удаления (по желанию).</li>
+      </ul>
+
+      <h2>Срок обработки</h2>
+
+      <p>
+        Запросы на удаление обрабатываются в течение <strong>до 30 дней</strong>.
+      </p>
+
+      <h2>Дополнительная информация</h2>
+
+      <p>
+        Некоторые данные могут временно сохраняться, если это требуется для соблюдения законодательства,
+        предотвращения мошенничества или обеспечения безопасности системы.
+      </p>
+
+    </main>
+
+    <div class="footer">
+      &copy; 2026 LifeTune. All rights reserved.
+    </div>
+
+  </div>
+</body>
+</html>
